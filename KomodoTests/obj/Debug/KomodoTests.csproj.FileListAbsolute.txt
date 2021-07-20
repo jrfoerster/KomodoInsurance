@@ -1,0 +1,16 @@
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\KomodoTests.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\KomodoTests.pdb
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\KomodoRepository.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\KomodoRepository.pdb
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\obj\Debug\KomodoTests.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\obj\Debug\KomodoTests.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\obj\Debug\KomodoTests.csproj.CopyComplete
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\obj\Debug\KomodoTests.dll
+D:\ElevenFiftyProjects\GoldBadge\Assignments\KomodoInsurance\KomodoTests\obj\Debug\KomodoTests.pdb
